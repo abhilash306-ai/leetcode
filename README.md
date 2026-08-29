@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/abhilash306-ai/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/abhilash306-ai/leetcode/tree/master/0908-smallest-range-i) |
 | [3516-find-closest-person](https://github.com/abhilash306-ai/leetcode/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhilash306-ai/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
