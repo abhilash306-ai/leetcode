@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhilash306-ai/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/abhilash306-ai/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
