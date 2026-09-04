@@ -31,4 +31,5 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/abhilash306-ai/leetcode/tree/master/0175-combine-two-tables) |
+| [1068-product-sales-analysis-i](https://github.com/abhilash306-ai/leetcode/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
